@@ -2,26 +2,25 @@
   "site": {
     "url": "https://xinlanlu1225-creator.github.io",
     "title": "博客",
-    "description": "这是一个有理想的人走过的漫长道路",
-    "keywords": "Kunyi,blog,dream,indra,博客,逐梦",
+    "description": "初心高于胜负",
+    "keywords": "Xinlan,blog,dream,robotics,EE,3DGS,embodiedAI,博客",
     "lang": "zh-CN",
     "favicon": "/favicon.ico",
     "appleTouchIcon": "/apple-touch-icon.png"
   },
   "author": {
-    "name": "Kunyi",
-    "twitterId": "@lxchapu",
+    "name": "Lu",
     "avatar": "/img/avatar.jpg"
   },
   "hero": {
-    "name": "Kunyi",
-    "bio": "一个为理想痴狂实干的疯子",
-    "description": "理想是追随稚晖君,欢迎一同学习",
+    "name": "Lu",
+    "bio": "给我一个支点，我能撬起整个地球",
+    "description": "",
     "socials": [
       {
         "name": "Github",
         "icon": "icon-github",
-        "url": "https://github.com/drowsyindra",
+        "url": "https://github.com/xinlanlu1225-creator",
         "color": "rgb(239, 70, 107)"
       },
       {
@@ -33,23 +32,12 @@
       {
         "name": "Email",
         "icon": "icon-mail",
-        "url": "mailto:1162137506@qq.com",
+        "url": "250153716@qq.com",
         "color": "rgb(150, 215, 201)"
-      },
-      {
-        "name": "Zhihu",
-        "icon": "icon-zhihu",
-        "url": "https://www.zhihu.com/people/wen-dao-81-2-70",
-        "color": "rgb(42, 147, 213)"
-      },
-      {
-        "name": "X",
-        "icon": "icon-x",
-        "url": "https://x.com/kunyi68226",
-        "color": "rgb(106,90,205)"
       }
+
     ],
-    "yiyan": "装作一个白日梦想家，然后征服全世界。"
+    "yiyan": "从何时开始忌讳空山无人，从何时开始怕遥望星辰"
   },
   "color": {
     "accent": [
