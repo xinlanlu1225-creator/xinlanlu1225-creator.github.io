@@ -16,7 +16,7 @@ summary: MEMO
 
 ## COLMAP重建
 
-我的环境在 lxl_colmap2
+
 
 基本步骤是 先抽帧 初步重建 后增加不抽帧的注册进初步重建的轨迹里
 
@@ -139,7 +139,7 @@ colmap mapper \
 
 ## 深度图
 
-环境： lxl_depth_anything
+
 
 python3 run.py  --encoder vitl   --img-path /home/metaiot_guest/data/lxl_data/experiment3/images  
 --outdir /home/metaiot_guest/data/lxl_data/experiment/depths  
@@ -156,7 +156,7 @@ python train.py -s /home/metaiot_guest/data/lxl_data/VisualRecons/test2\
     --eval 
 
 # LiDAR-RT
-环境：lxl_lidarrt
+
 
 安装文档等都在 docs下面的文档里
 目前的代码改动是 新写了一个 lib/dataloader下面的kradar_loader
