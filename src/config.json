@@ -29,13 +29,13 @@
         "icon": "icon-bilibili",
         "url": "https://space.bilibili.com/243163203?spm_id_from=333.1007.0.0",
         "color": "rgb(245, 154, 155)"
+      },
+      {
+        "name": "Email",
+        "icon": "icon-mail",
+        "url": "mailto:250153716@qq.com",
+        "color": "rgb(150, 215, 201)"
       }
-      // {
-      //   "name": "Email",
-      //   "icon": "icon-mail",
-      //   "url": "250153716@qq.com",
-      //   "color": "rgb(150, 215, 201)"
-      // }
 
     ],
     "yiyan": "从何时开始忌讳空山无人，从何时开始怕遥望星辰"
