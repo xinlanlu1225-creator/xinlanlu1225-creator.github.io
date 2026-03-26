@@ -37,7 +37,7 @@ email：lucyland@whu.edu.cn
 
 **24.11-25.3** 基于gazebo的机械臂运动仿真(ROS,gazebo,robotics,仿真,Deep Learning & little bit VLA)
 
-**25.6** 基于ROS的机器人路径规划算法模块编写(A*,Dijistra)
+**25.6** 基于ROS的机器人路径规划算法模块编写(A*,Dijkstra)
 
 **25.6-25.10** 基于激光-视觉-惯导的三维重建(FAST-LIVO2实机部署与改进,SLAM,Lidar-IMU-Vision-Odom)
 
