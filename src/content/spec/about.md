@@ -26,6 +26,12 @@ WHU EE 24级
 
 email：lucyland@whu.edu.cn
 
+爱喝冰美式
+
+偶尔拍拍照和剪视频
+
+徒步健身跑步小白（如果有人要教我打羽毛球也可以……无基本功但态度很好
+
 
 ### experience
 
